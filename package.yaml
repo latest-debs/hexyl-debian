@@ -2,6 +2,7 @@
 
 package_name: hexyl
 github_repo: sharkdp/hexyl
+license: MIT
 artifact_format: tar.gz
 description: "A command-line hex viewer"
 
